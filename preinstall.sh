@@ -1,3 +1,4 @@
+#!/bin/sh
 apt-get update
 apt install build-essential
 apt-get -y install clang
